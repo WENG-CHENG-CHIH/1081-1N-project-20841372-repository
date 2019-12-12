@@ -1,0 +1,12 @@
+#container{
+border-style: solid;
+background-color: coral;
+}
+.content{
+    background-color: crimson;
+   text-align: center;
+   padding-left: 350px;
+   padding-right: 350px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}

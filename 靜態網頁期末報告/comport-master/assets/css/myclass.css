@@ -1,0 +1,64 @@
+#container {
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+  }
+  .back1{
+    padding-top: 0px;
+    opacity: 1;
+  }
+  .back2{
+    padding-top: 0px;
+    opacity: 1;
+  }
+.wow{
+  width:600px; 
+  height: 580px; 
+  padding-top:0px;
+  background-color: black;
+  color:black;
+}
+
+
+.relax{
+    background-color: orange;
+    font-size:18px ;
+    text-align: center;
+}
+.weekday {
+    background-color: rgb(34, 53, 104);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+  }
+  .time {
+    background-color: goldenrod;
+    width: 90px;
+    font-size: 16px;
+  }
+  .number {
+    width: 20px;
+    font-size: 18px;
+    text-align: center;
+    background-color: chocolate;
+  }
+  .resume {
+    background-color: rgb(90, 184, 221);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+  }
+  .class-name{
+      color:black;
+      background-color:greenyellow;
+      text-align: center;
+      font-size: 18px;
+  }
+  .content{
+      background-color:palegreen;
+  }
+  .resume_time{
+      text-align: center;
+      background-color:rgb(98, 129, 228);
+      color: white;
+  }
